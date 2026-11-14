@@ -1,0 +1,4 @@
+# Host tools; ESP-IDF manages its own build dependencies separately.
+Pillow==13.0.0
+psutil==7.2.2
+websockets==17.3

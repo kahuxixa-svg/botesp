@@ -1,0 +1,93 @@
+{
+  "source": "https://trokotec.com/assets/downloads/troko-firmware-es.zip",
+  "archive_sha256": "1833fcd5080b73e8ba00053398c4f399b7ed03d00c9eea249a3e6905707dc0c5",
+  "firmware_sha256": "0bc34131e31c2b5d77af7c38281829a955cc10a6e4149d368a0be468cbfdc840",
+  "partition_offset": "0xc00000",
+  "transformation": "GIF bytes extracted unchanged; speech models excluded from local pack",
+  "files": [
+    {
+      "name": "angry.gif",
+      "sha256": "aff60881df7a0f544d2be0b3791f625aec9d76153758683bd66e0870837821aa"
+    },
+    {
+      "name": "confident.gif",
+      "sha256": "79907e157ca5f71d2c8dc4e8c1183409ddf37442cf4631b6e9491808afe8665b"
+    },
+    {
+      "name": "confused.gif",
+      "sha256": "1c3808e0df599baaafc4e7678fb9ff03f8c40c02f55c5c1d91aa9bfe2995ccc3"
+    },
+    {
+      "name": "cool.gif",
+      "sha256": "93dc948d93eb1c2338fa2a742d5eea283e8007eb23af3d463b1ba3019b785910"
+    },
+    {
+      "name": "crying.gif",
+      "sha256": "9a0cb47e45f17f20ee4c1e7295af3a3c41e77a48c3090ec2dd0e6b1ca39d8085"
+    },
+    {
+      "name": "delicious.gif",
+      "sha256": "9875abf979f02b8f556220c219189e3a6753a69b32b82221090739859c36ab98"
+    },
+    {
+      "name": "embarrassed.gif",
+      "sha256": "dace617366abedd62dfcc20010f35655b4a010a2a400cfd3327a1525cf1a1132"
+    },
+    {
+      "name": "funny.gif",
+      "sha256": "dc936e2957996f911de86f9435719674af34907ff1e3183b652c509ba8733213"
+    },
+    {
+      "name": "happy.gif",
+      "sha256": "b184c66c2d08d2a4b91bffc865bec6805422c29f45b044b05c90f57491861cb2"
+    },
+    {
+      "name": "kissy.gif",
+      "sha256": "b0e6be1e5e45f974883f13399c9c67a1a2bfef6f66afb814f0fb254aa13f375c"
+    },
+    {
+      "name": "laughing.gif",
+      "sha256": "3c70febaa7fd1fe4d79b463a0795bfb5396ffb8fc6f8f50f730c35608b1ad3be"
+    },
+    {
+      "name": "loving.gif",
+      "sha256": "d8cc95ea2c9cd8329570803c3758cfccd7223419035b03b8b697a6f65df8bf8a"
+    },
+    {
+      "name": "neutral.gif",
+      "sha256": "9939660319232636cb2404cf0c4aeb10fd3418f74ce0f5a43def88fdada6873c"
+    },
+    {
+      "name": "relaxed.gif",
+      "sha256": "946461d8e2c6f865a15bc5c1856d681f035e2bf6d210b01f51f1cdcbdc9ada9c"
+    },
+    {
+      "name": "sad.gif",
+      "sha256": "fc61b048fdbdb631e42bd91a06c156fcf1c02ade5f38b831fcc5c77b36ac0671"
+    },
+    {
+      "name": "shocked.gif",
+      "sha256": "136714d01d3c33bfb36a0bbbb979b8dcfa85434e163f9146a3e2e4f98f78df5b"
+    },
+    {
+      "name": "silly.gif",
+      "sha256": "25636df004706725091003a00f2138aeba509eb45f5327f1391e38dca9c0518f"
+    },
+    {
+      "name": "sleepy.gif",
+      "sha256": "ed7440f33092e50569b1089915ba198cdbfbd69e8411b4f873119d616bbeca7f"
+    },
+    {
+      "name": "surprised.gif",
+      "sha256": "994578b33bc3329ac0c5525e88862ffe13c24dad6484c05f8f9f05d7ada8ff4d"
+    },
+    {
+      "name": "thinking.gif",
+      "sha256": "313d8b49ae9e21925fc901d384500132befa0d888794b54bf6702ab4356f67ef"
+    },
+    {
+      "name": "winking.gif",
+      "sha256": "c772c2065fc9192d45be0bed68613f94214f587d7f344e5a5c83e2f468c4d2a1"
+    }
+  ]
+}

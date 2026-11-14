@@ -1,0 +1,17 @@
+.tools/
+.local/
+__pycache__/
+.env
+.env.*
+!.env.example
+*.bin
+*.log
+*.py[cod]
+.venv/
+.pytest_cache/
+*.pem
+*.key
+*.pfx
+*.p12
+/hardware.json
+/backups/

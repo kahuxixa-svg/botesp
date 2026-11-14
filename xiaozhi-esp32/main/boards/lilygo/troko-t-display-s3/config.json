@@ -1,0 +1,15 @@
+{
+    "manufacturer": "lilygo",
+    "type": "troko-lilygo-t-display-s3",
+    "target": "esp32s3",
+    "builds": [
+        {
+            "name": "troko-lilygo-t-display-s3-no-audio",
+            "sdkconfig_append": [
+                "CONFIG_WAKE_WORD_DISABLED=y",
+                "CONFIG_FLASH_CUSTOM_ASSETS=y",
+                "CONFIG_CUSTOM_ASSETS_FILE=\"../../.local/troko-eyes-assets.bin\""
+            ]
+        }
+    ]
+}
